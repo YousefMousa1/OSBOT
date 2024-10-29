@@ -1,1 +1,7 @@
-This is my Projects that I worked on outside the scope of my university studies 
+This repository contains a collection of bots created for RuneScape, a popular online multiplayer game where players explore a fantasy world, 
+complete quests, and engage in various skills like combat, crafting, and trading.
+The bots in this repository automate specific in-game tasks, helping to improve efficiency in repetitive actions.
+
+These scripts are crafted as a way to practice coding and reinforce core programming principles. Each bot is designed with clean, efficient code and reusable components,
+with an emphasis on automation techniques, algorithms, and data structures.
+The goal is not only to create functional bots but to refine coding skills and optimize solutions. Feedback and contributions are welcome!
