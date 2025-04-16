@@ -1,3 +1,6 @@
+### 🔄 Profit Trends Over Time (ML-Simulated)
+
+<img src="flipping_profit_animation.gif" alt="Profit Animation" width="600"/>
 
 # OSRS Flipping Bot 🤖
 
@@ -29,4 +32,3 @@ osrs_flipping_bot/
 - Extend with candlestick data or moving averages for advanced prediction.
 ---
 Inspired by open-source trading strategies — built by a curious student passionate about automation and data.
-<img src="flipping_profit_animation.gif" alt="Profit Animation" width="600"/>
