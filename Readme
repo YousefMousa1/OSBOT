@@ -1,7 +1,36 @@
-This repository contains a collection of bots created for RuneScape, a popular online multiplayer game where players explore a fantasy world, 
-complete quests, and engage in various skills like combat, crafting, and trading.
-The bots in this repository automate specific in-game tasks, helping to improve efficiency in repetitive actions.
 
-These scripts are crafted as a way to practice coding and reinforce core programming principles. Each bot is designed with clean, efficient code and reusable components,
-with an emphasis on automation techniques, algorithms, and data structures.
-The goal is not only to create functional bots but to refine coding skills and optimize solutions. Feedback and contributions are welcome!
+# OSRS Flipping Bot 🤖
+
+A machine learning-based bot for identifying profitable item flips on the Old School RuneScape Grand Exchange.
+
+## 🔍 Features
+- Real-time price fetching via OSRS Wiki API
+- Filtering logic to avoid dead or rare items
+- Machine learning predictions for short-term profit
+- Grand Exchange tax accounted for
+
+## 🧠 Tech Stack
+`Python`, `Random Forest`, `Requests`, `Joblib`, `Scikit-learn`
+
+## 🚀 Quick Start
+```bash
+pip install -r requirements.txt
+python main.py
+```
+
+## 📁 Project Structure
+
+osrs_flipping_bot/
+├── data/               # Stored price + filtered JSONs
+├── models/             # Saved trained model
+├── src/                # Core logic split into modules
+├── main.py             # Main entry point
+└── README.md
+
+
+## 🎯 Notes
+- Can be expanded with OSBot API for in-game automation.
+- Extend with candlestick data or moving averages for advanced prediction.
+
+---
+Inspired by open-source trading strategies — built by a curious student passionate about automation and data.
