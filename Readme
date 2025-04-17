@@ -1,33 +1,34 @@
-### 🔄 Profit Trends Over Time (ML-Simulated)
+<h1 align="center">Hey, I'm Yousef 👋</h1>
 
-![Profit Animation](https://raw.githubusercontent.com/YousefMousa1/Projects/main/flipping_profit_animation.gif)
-# OSRS Flipping Bot 🤖
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Curious+Student+%7C+Software+Engineer+in+Training;ML%2FAutomation+Explorer;Open+Source+Contributor+in+Progress" />
+</p>
 
-A machine learning-based bot for identifying profitable item flips on the Old School RuneScape Grand Exchange.
-
-## 🔍 Features
-- Real-time price fetching via OSRS Wiki API
-- Filtering logic to avoid dead or rare items
-- Machine learning predictions for short-term profit
-- Grand Exchange tax accounted for
-
-## 🧠 Tech Stack
-`Python`, `Random Forest`, `Requests`, `Joblib`, `Scikit-learn`
-
-
-
-## 📁 Project Structure
-
-osrs_flipping_bot/
-├── data/               # Stored price + filtered JSONs
-├── models/             # Saved trained model
-├── src/                # Core logic split into modules
-├── main.py             # Main entry point
-└── README.md
-
-
-## 🎯 Notes
-- Can be expanded with OSBot API for in-game automation.
-- Extend with candlestick data or moving averages for advanced prediction.
 ---
-Inspired by open-source trading strategies — built by a curious student passionate about automation and data.
+
+### 🚀 Projects I’m proud of
+- 🤖 [OSRS Flipping Bot](https://github.com/yourname/osrs-flipping-bot) — Machine learning, automation, game economy
+- 📊 K-means Clustering from Scratch — Statistical learning, Python math
+- 🧠 Automation Scripts — From bots to pipelines, I like smart tools
+
+---
+
+### 🧰 Tools I Use
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python">
+  <img src="https://img.shields.io/badge/-Linux-gray?style=flat-square&logo=linux">
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
+  <img src="https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code">
+  <img src="https://img.shields.io/badge/-OpenCV-brightgreen?style=flat-square&logo=opencv">
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
